@@ -1,0 +1,1 @@
+Folder contains all .csv files used in this project as well as the SQL tweets database created from the original dataset
